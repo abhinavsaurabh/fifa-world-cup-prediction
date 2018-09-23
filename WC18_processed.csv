@@ -1,0 +1,82 @@
+Country,Squad,Formation,Tier,Rating,Attack,Midfield,Defence
+Egypt,"['A. El-Shenawy' 'A. Hegazy' 'K. Hafez' 'O. Gaber' 'M. Salah' 'R. Sobhi'
+ 'Kahraba' 'M. Elneny' 'A. Hassan' 'Trezeguet' 'M. Fathi']",3-5-2,2,79.0,82.33,83.0,74.17
+Morocco,"['Y. Bounou' 'M. Benatia' 'A. Hakimi' 'Z. Feddal' 'H. Ziyech' 'S. Boufal'
+ 'S. Amrabat' 'A. Harit' 'Y. Ait Bennasser' 'Y. Belhanda' 'Y. Ayoub']",3-5-2,2,81.55,84.0,82.5,78.83
+Nigeria,"['V. Enyeama' 'C. Awaziem' 'K. Omeruo' 'U. Agbo' 'O. Ndidi' 'K. Iheanacho'
+ 'H. Onyekuru' 'A. Iwobi' 'I. Success' 'O. Orji' 'V. Osimhen']",3-5-2,2,82.82,84.5,85.33,79.0
+Senegal,"['A. Gomis' 'K. Koulibaly' 'K. Mbodj' 'K. Mbodj' 'K. Bald√© Diao'
+ 'S. Man√©' 'A. Ndiaye Diedhiou' 'I. Sarr' 'I. Gueye' 'M. Coulibaly'
+ 'I. Niane']",3-5-2,1,84.18,87.25,84.0,81.17
+Tunisia,"['F. Ben Mustapha' 'A. Abdennour' 'Y. Benalouane' 'S. Ben Youssef'
+ 'B. Srarfi' 'E. Skhiri' 'N. Sliti' 'I. Jebali' 'L. Azouni' 'K. Laribi'
+ 'H. Harbaoui']",3-5-2,3,74.45,78.0,76.0,72.33
+Australia,"['M. Ryan' 'A. Gersbach' 'T. Sainsbury' 'B. Wright' ""A. O'Neill"" 'A. Mooy'
+ 'T. Rogiƒ\x87' 'J. Maclaren' 'M. Degenek' 'D. De Silva' 'R. McGree']",3-5-2,2,77.82,77.33,78.5,77.5
+Iran,"['A. Haghighi' 'M. Mohammadi' 'K. Ansarifard' 'K. Rezaei' 'S. Azmoun'
+ 'A. Jahanbakhsh' 'S. Ezatolahi' 'R. Shekari' 'S. Ghoddos' 'A. Samizadeh'
+ 'R. Ghoochannejhad']",3-5-2,3,76.55,79.75,79.0,71.67
+Japan,"['K. Nakamura' 'G. Shoji' 'N. Ueda' 'M. Hasebe' 'Y. Mut≈\x8d'
+ 'G. Shibasaki' 'H. Abe' 'Y. Kubo' 'D. Kamada' 'Y. Ideguchi' 'R. Doan']",3-5-2,2,79.55,80.5,81.0,77.67
+Korea Republic,"['Yoon Bo Sang' 'Kim Min Jae' 'An Hyeon Beom' 'Kim Jin Su' 'H. Son'
+ 'Han Chan Hee' 'You Ju An' 'Lee Jae Sung' 'Kim Seung Joon' 'Lee Chang Min'
+ 'Lee Sang Heon']",3-5-2,2,80.36,82.0,79.0,78.83
+Saudi Arabia,"['M. Al Owais' 'M. Hawsawi' 'O. Hawsawi' 'Y. Al Shahrani' 'M. Jahfali'
+ 'F. Al Muwallad' 'A. Aseri' 'A. Ateef' 'M. Kanno' 'N. Al Abed'
+ 'S. Al Najai']",4-4-2,2,77.45,79.33,77.0,76.5
+Belgium,"['T. Courtois' 'T. Alderweireld' 'L. Dendoncker' 'J. Vertonghen'
+ 'K. De Bruyne' 'E. Hazard' 'R. Lukaku' 'Y. Carrasco' 'Y. Tielemans'
+ 'R. Nainggolan' 'D. Mertens']",3-5-2,1,88.64,90.33,91.0,86.33
+Croatia,"['D. Suba≈°iƒ\x87' 'T. Jedvaj' 'D. Lovren' 'S. Vrsaljko' 'L. Modriƒ\x87'
+ 'M. Kovaƒ\x8diƒ\x87' 'I. Rakitiƒ\x87' 'M. Rog' 'M. Pjaca'
+ 'M. Brozoviƒ\x87' 'A. Haliloviƒ\x87']",3-5-2,1,85.55,86.0,87.5,83.0
+Denmark,"['K. Schmeichel' 'J. Vestergaard' 'S. Kj√¶r' 'F. S√∏rensen' 'C. Eriksen'
+ 'A. Christensen' 'K. Dolberg' 'L. Andersen' 'Y. Poulsen' 'P. Sisto'
+ 'V. Fischer']",3-5-2,1,84.55,85.5,87.67,81.67
+England,"['J. Butland' 'M. Keane' 'A. Oxlade-Chamberlain' 'J. Stones' 'H. Kane'
+ 'D. Alli' 'A. Gomes' 'M. Rashford' 'R. Sterling' 'E. Dier' 'M. Edwards']",3-5-2,1,87.64,90.0,89.0,85.5
+France,"['A. Lafont' 'R. Varane' 'A. Laporte' 'S. Umtiti' 'K. Mbapp√©' 'P. Pogba'
+ 'O. Demb√©l√©' 'A. Griezmann' 'T. Lemar' 'N. Kant√©' 'A. Martial']",3-5-2,1,90.73,92.33,91.5,89.0
+Germany,"['M. Neuer' 'N. S√ºle' 'J. Boateng' 'M. Hummels' 'J. Tah' 'L. San√©'
+ 'T. Kroos' 'M. √\x96zil' 'L. Goretzka' 'J. Brandt' 'I. G√ºndoƒ\x9fan']",4-4-2,1,88.82,88.0,89.67,88.5
+Iceland,"['R. R√∫narsson' 'S. Ingason' 'H. Hermannsson' 'D. Johannesson'
+ 'G. Sigur√∞sson' 'A. Finnbogason' 'B. Sigur√∞arson' 'E. Hallfre√∞sson'
+ 'A. Gu√∞mundsson' 'J. Gu√∞mundsson' 'A. Traustason']",3-5-2,3,75.82,75.5,77.67,74.67
+Poland,"['B. Drƒ\x85gowski' 'K. Glik' 'L. Piszczek' 'J. Bednarek' 'R. Lewandowski'
+ 'P. Zieli≈\x84ski' 'A. Milik' 'K. Linetty' 'G. Krychowiak' 'B. Kapustka'
+ 'K. J√≥≈∫wiak']",3-5-2,1,84.64,88.5,85.0,81.67
+Portugal,"['A. Lopes' 'N√©lson Semedo' 'Pepe' 'R√∫ben Semedo' 'Cristiano Ronaldo'
+ 'Bernardo Silva' 'Jo√£o M√°rio' 'Andr√© Gomes' 'Gelson Martins'
+ 'William Carvalho' 'Danilo Pereira']",3-5-2,1,87.73,90.0,89.5,85.33
+Russia,"['S. Kritsyuk' 'G. Dzhikiya' 'I. Kutepov' 'E. Nabiullin' 'R. Zobnin'
+ 'A. Golovin' 'M√°rio Fernandes' 'F. Chalov' 'I. Bezdenezhnykh' 'F. Smolov'
+ 'A. Kokorin']",3-5-2,2,81.82,82.0,83.33,80.5
+Serbia,"['F. Manojloviƒ\x87' 'M. Nastasiƒ\x87' 'N. Maksimoviƒ\x87'
+ 'V. Jovanoviƒ\x87' 'S. Milinkoviƒ\x87-Saviƒ\x87' 'A. ≈Ωivkoviƒ\x87'
+ 'M. Grujiƒ\x87' 'N. Matiƒ\x87' 'N. Radoja' 'F. Kostiƒ\x87' 'F. Kostiƒ\x87']",3-5-2,2,83.45,85.5,84.0,82.0
+Spain,"['De Gea' 'Sergio Ramos' 'H√©ctor Beller√\xadn' 'Piqu√©' 'Marco Asensio'
+ 'Thiago' 'Isco' 'Sa√∫l' 'Deulofeu' 'Morata' 'Koke']",3-5-2,1,89.45,90.5,90.0,88.5
+Sweden,"['P. Dahlberg' 'V. Lindel√∂f' 'L. Augustinsson' 'A. Granqvist'
+ 'Z. Ibrahimoviƒ\x87' 'E. Forsberg' 'A. Isak' 'J. Guidetti' 'J. Guidetti'
+ 'A. Fransson' 'G. Engvall']",3-5-2,2,82.64,84.0,85.0,80.83
+Switzerland,"['R. B√ºrki' 'R. Rodr√\xadguez' 'N. Elvedi' 'M. Akanji' 'B. Embolo'
+ 'D. Zakaria' 'G. Xhaka' 'X. Shaqiri' 'D. Oberlin' 'S. Lichtsteiner'
+ 'S. Widmer']",3-5-2,1,84.45,85.67,85.5,83.33
+Costa Rica,"['K. Navas' 'G. Gonz√°lez' 'K. Waston' 'F. Calvo' 'C. Gamboa' 'J. Campbell'
+ 'R. Matarrita' 'O. Duarte' 'J. Ruiz' 'G. Torres' 'D. Guzman']",4-4-2,3,75.91,80.0,75.75,75.17
+Mexico,"['G. Ochoa' 'D. Reyes' 'C. Montes' 'H. Moreno' 'J. Corona' 'H. Lozano'
+ 'E. Guti√©rrez' 'O. Pineda' 'D. Lainez' 'J. Hern√°ndez' 'C. Vela']",3-5-2,2,82.45,85.0,83.75,80.33
+Panama,"['R. Torres' 'A. Machado' 'H. Cummings' 'F. Escobar' 'A. Godoy' 'J. Cox'
+ 'J. Aguilar' 'C. Martinez' 'G. G√≥mez' 'M. Murillo' 'M. Camargo']",3-5-2,3,70.91,72.0,71.67,68.17
+Argentina,"['G. Rulli' 'M. Musacchio' 'E. Mammana' 'J. Foyth' 'L. Messi' 'P. Dybala'
+ 'G. Higua√\xadn' 'E. Barco' 'S. Ag√ºero' 'M. Icardi' 'L. Mart√\xadnez']",3-5-2,1,89.0,91.25,90.0,85.67
+Brazil,"['Ederson' 'Marquinhos' 'Thiago Silva' 'Marcelo' 'Neymar' 'Gabriel Jesus'
+ 'Coutinho' 'Casemiro' 'Alex Sandro' 'Fabinho' 'Roberto Firmino']",3-5-2,1,89.09,91.67,88.5,87.5
+Colombia,"['D. Ospina' 'D. S√°nchez' 'J. Murillo' 'J. Lerma' 'J. Rodr√\xadguez'
+ 'Falcao' 'R. Borr√©' 'L. Muriel' 'A. Morelos' 'C. Bacca' 'J. Cuadrado']",3-5-2,2,83.64,83.5,89.0,82.67
+Peru,"['P. Gallese' 'C. Zambrano' 'A. Callens' 'A. Rodr√\xadguez' 'A. Polo'
+ 'J. Farf√°n' 'A. Carrillo' 'R. Tapia' 'R. Ruid√\xadaz' 'P. Hurtado'
+ 'Y. Reyna']",3-5-2,3,76.91,77.5,78.33,74.83
+Uruguay,"['F. Muslera' 'D. God√\xadn' 'J. Gim√©nez' 'M. Saracchi' 'L. Su√°rez'
+ 'E. Cavani' 'N. N√°ndez' 'F. Valverde' 'M. Lemos' 'L. Torreira'
+ 'R. Bentancur']",3-5-2,1,85.45,89.5,84.33,84.5

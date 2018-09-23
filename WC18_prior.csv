@@ -1,0 +1,993 @@
+CountryA,CountryB,meanScoreA,meanScoreB
+Egypt,Morocco,2,2
+Egypt,Nigeria,2,2
+Egypt,Senegal,1,2
+Egypt,Tunisia,3,2
+Egypt,Australia,2,2
+Egypt,Iran,3,2
+Egypt,Japan,2,2
+Egypt,Korea Republic,2,2
+Egypt,Saudi Arabia,2,2
+Egypt,Belgium,1,2
+Egypt,Croatia,1,2
+Egypt,Denmark,1,2
+Egypt,England,1,2
+Egypt,France,1,2
+Egypt,Germany,1,2
+Egypt,Iceland,3,2
+Egypt,Poland,1,2
+Egypt,Portugal,1,2
+Egypt,Russia,2,2
+Egypt,Serbia,2,2
+Egypt,Spain,1,2
+Egypt,Sweden,2,2
+Egypt,Switzerland,1,2
+Egypt,Costa Rica,3,2
+Egypt,Mexico,2,2
+Egypt,Panama,3,2
+Egypt,Argentina,1,2
+Egypt,Brazil,1,2
+Egypt,Colombia,2,2
+Egypt,Peru,3,2
+Egypt,Uruguay,1,2
+Morocco,Egypt,2,2
+Morocco,Nigeria,2,2
+Morocco,Senegal,1,2
+Morocco,Tunisia,3,2
+Morocco,Australia,2,2
+Morocco,Iran,3,2
+Morocco,Japan,2,2
+Morocco,Korea Republic,2,2
+Morocco,Saudi Arabia,2,2
+Morocco,Belgium,1,2
+Morocco,Croatia,1,2
+Morocco,Denmark,1,2
+Morocco,England,1,2
+Morocco,France,1,2
+Morocco,Germany,1,2
+Morocco,Iceland,3,2
+Morocco,Poland,1,2
+Morocco,Portugal,1,2
+Morocco,Russia,2,2
+Morocco,Serbia,2,2
+Morocco,Spain,1,2
+Morocco,Sweden,2,2
+Morocco,Switzerland,1,2
+Morocco,Costa Rica,3,2
+Morocco,Mexico,2,2
+Morocco,Panama,3,2
+Morocco,Argentina,1,2
+Morocco,Brazil,1,2
+Morocco,Colombia,2,2
+Morocco,Peru,3,2
+Morocco,Uruguay,1,2
+Nigeria,Egypt,2,2
+Nigeria,Morocco,2,2
+Nigeria,Senegal,1,2
+Nigeria,Tunisia,3,2
+Nigeria,Australia,2,2
+Nigeria,Iran,3,2
+Nigeria,Japan,2,2
+Nigeria,Korea Republic,2,2
+Nigeria,Saudi Arabia,2,2
+Nigeria,Belgium,1,2
+Nigeria,Croatia,1,2
+Nigeria,Denmark,1,2
+Nigeria,England,1,2
+Nigeria,France,1,2
+Nigeria,Germany,1,2
+Nigeria,Iceland,3,2
+Nigeria,Poland,1,2
+Nigeria,Portugal,1,2
+Nigeria,Russia,2,2
+Nigeria,Serbia,2,2
+Nigeria,Spain,1,2
+Nigeria,Sweden,2,2
+Nigeria,Switzerland,1,2
+Nigeria,Costa Rica,3,2
+Nigeria,Mexico,2,2
+Nigeria,Panama,3,2
+Nigeria,Argentina,1,2
+Nigeria,Brazil,1,2
+Nigeria,Colombia,2,2
+Nigeria,Peru,3,2
+Nigeria,Uruguay,1,2
+Senegal,Egypt,2,1
+Senegal,Morocco,2,1
+Senegal,Nigeria,2,1
+Senegal,Tunisia,3,1
+Senegal,Australia,2,1
+Senegal,Iran,3,1
+Senegal,Japan,2,1
+Senegal,Korea Republic,2,1
+Senegal,Saudi Arabia,2,1
+Senegal,Belgium,1,1
+Senegal,Croatia,1,1
+Senegal,Denmark,1,1
+Senegal,England,1,1
+Senegal,France,1,1
+Senegal,Germany,1,1
+Senegal,Iceland,3,1
+Senegal,Poland,1,1
+Senegal,Portugal,1,1
+Senegal,Russia,2,1
+Senegal,Serbia,2,1
+Senegal,Spain,1,1
+Senegal,Sweden,2,1
+Senegal,Switzerland,1,1
+Senegal,Costa Rica,3,1
+Senegal,Mexico,2,1
+Senegal,Panama,3,1
+Senegal,Argentina,1,1
+Senegal,Brazil,1,1
+Senegal,Colombia,2,1
+Senegal,Peru,3,1
+Senegal,Uruguay,1,1
+Tunisia,Egypt,2,3
+Tunisia,Morocco,2,3
+Tunisia,Nigeria,2,3
+Tunisia,Senegal,1,3
+Tunisia,Australia,2,3
+Tunisia,Iran,3,3
+Tunisia,Japan,2,3
+Tunisia,Korea Republic,2,3
+Tunisia,Saudi Arabia,2,3
+Tunisia,Belgium,1,3
+Tunisia,Croatia,1,3
+Tunisia,Denmark,1,3
+Tunisia,England,1,3
+Tunisia,France,1,3
+Tunisia,Germany,1,3
+Tunisia,Iceland,3,3
+Tunisia,Poland,1,3
+Tunisia,Portugal,1,3
+Tunisia,Russia,2,3
+Tunisia,Serbia,2,3
+Tunisia,Spain,1,3
+Tunisia,Sweden,2,3
+Tunisia,Switzerland,1,3
+Tunisia,Costa Rica,3,3
+Tunisia,Mexico,2,3
+Tunisia,Panama,3,3
+Tunisia,Argentina,1,3
+Tunisia,Brazil,1,3
+Tunisia,Colombia,2,3
+Tunisia,Peru,3,3
+Tunisia,Uruguay,1,3
+Australia,Egypt,2,2
+Australia,Morocco,2,2
+Australia,Nigeria,2,2
+Australia,Senegal,1,2
+Australia,Tunisia,3,2
+Australia,Iran,3,2
+Australia,Japan,2,2
+Australia,Korea Republic,2,2
+Australia,Saudi Arabia,2,2
+Australia,Belgium,1,2
+Australia,Croatia,1,2
+Australia,Denmark,1,2
+Australia,England,1,2
+Australia,France,1,2
+Australia,Germany,1,2
+Australia,Iceland,3,2
+Australia,Poland,1,2
+Australia,Portugal,1,2
+Australia,Russia,2,2
+Australia,Serbia,2,2
+Australia,Spain,1,2
+Australia,Sweden,2,2
+Australia,Switzerland,1,2
+Australia,Costa Rica,3,2
+Australia,Mexico,2,2
+Australia,Panama,3,2
+Australia,Argentina,1,2
+Australia,Brazil,1,2
+Australia,Colombia,2,2
+Australia,Peru,3,2
+Australia,Uruguay,1,2
+Iran,Egypt,2,3
+Iran,Morocco,2,3
+Iran,Nigeria,2,3
+Iran,Senegal,1,3
+Iran,Tunisia,3,3
+Iran,Australia,2,3
+Iran,Japan,2,3
+Iran,Korea Republic,2,3
+Iran,Saudi Arabia,2,3
+Iran,Belgium,1,3
+Iran,Croatia,1,3
+Iran,Denmark,1,3
+Iran,England,1,3
+Iran,France,1,3
+Iran,Germany,1,3
+Iran,Iceland,3,3
+Iran,Poland,1,3
+Iran,Portugal,1,3
+Iran,Russia,2,3
+Iran,Serbia,2,3
+Iran,Spain,1,3
+Iran,Sweden,2,3
+Iran,Switzerland,1,3
+Iran,Costa Rica,3,3
+Iran,Mexico,2,3
+Iran,Panama,3,3
+Iran,Argentina,1,3
+Iran,Brazil,1,3
+Iran,Colombia,2,3
+Iran,Peru,3,3
+Iran,Uruguay,1,3
+Japan,Egypt,2,2
+Japan,Morocco,2,2
+Japan,Nigeria,2,2
+Japan,Senegal,1,2
+Japan,Tunisia,3,2
+Japan,Australia,2,2
+Japan,Iran,3,2
+Japan,Korea Republic,2,2
+Japan,Saudi Arabia,2,2
+Japan,Belgium,1,2
+Japan,Croatia,1,2
+Japan,Denmark,1,2
+Japan,England,1,2
+Japan,France,1,2
+Japan,Germany,1,2
+Japan,Iceland,3,2
+Japan,Poland,1,2
+Japan,Portugal,1,2
+Japan,Russia,2,2
+Japan,Serbia,2,2
+Japan,Spain,1,2
+Japan,Sweden,2,2
+Japan,Switzerland,1,2
+Japan,Costa Rica,3,2
+Japan,Mexico,2,2
+Japan,Panama,3,2
+Japan,Argentina,1,2
+Japan,Brazil,1,2
+Japan,Colombia,2,2
+Japan,Peru,3,2
+Japan,Uruguay,1,2
+Korea Republic,Egypt,2,2
+Korea Republic,Morocco,2,2
+Korea Republic,Nigeria,2,2
+Korea Republic,Senegal,1,2
+Korea Republic,Tunisia,3,2
+Korea Republic,Australia,2,2
+Korea Republic,Iran,3,2
+Korea Republic,Japan,2,2
+Korea Republic,Saudi Arabia,2,2
+Korea Republic,Belgium,1,2
+Korea Republic,Croatia,1,2
+Korea Republic,Denmark,1,2
+Korea Republic,England,1,2
+Korea Republic,France,1,2
+Korea Republic,Germany,1,2
+Korea Republic,Iceland,3,2
+Korea Republic,Poland,1,2
+Korea Republic,Portugal,1,2
+Korea Republic,Russia,2,2
+Korea Republic,Serbia,2,2
+Korea Republic,Spain,1,2
+Korea Republic,Sweden,2,2
+Korea Republic,Switzerland,1,2
+Korea Republic,Costa Rica,3,2
+Korea Republic,Mexico,2,2
+Korea Republic,Panama,3,2
+Korea Republic,Argentina,1,2
+Korea Republic,Brazil,1,2
+Korea Republic,Colombia,2,2
+Korea Republic,Peru,3,2
+Korea Republic,Uruguay,1,2
+Saudi Arabia,Egypt,2,2
+Saudi Arabia,Morocco,2,2
+Saudi Arabia,Nigeria,2,2
+Saudi Arabia,Senegal,1,2
+Saudi Arabia,Tunisia,3,2
+Saudi Arabia,Australia,2,2
+Saudi Arabia,Iran,3,2
+Saudi Arabia,Japan,2,2
+Saudi Arabia,Korea Republic,2,2
+Saudi Arabia,Belgium,1,2
+Saudi Arabia,Croatia,1,2
+Saudi Arabia,Denmark,1,2
+Saudi Arabia,England,1,2
+Saudi Arabia,France,1,2
+Saudi Arabia,Germany,1,2
+Saudi Arabia,Iceland,3,2
+Saudi Arabia,Poland,1,2
+Saudi Arabia,Portugal,1,2
+Saudi Arabia,Russia,2,2
+Saudi Arabia,Serbia,2,2
+Saudi Arabia,Spain,1,2
+Saudi Arabia,Sweden,2,2
+Saudi Arabia,Switzerland,1,2
+Saudi Arabia,Costa Rica,3,2
+Saudi Arabia,Mexico,2,2
+Saudi Arabia,Panama,3,2
+Saudi Arabia,Argentina,1,2
+Saudi Arabia,Brazil,1,2
+Saudi Arabia,Colombia,2,2
+Saudi Arabia,Peru,3,2
+Saudi Arabia,Uruguay,1,2
+Belgium,Egypt,2,1
+Belgium,Morocco,2,1
+Belgium,Nigeria,2,1
+Belgium,Senegal,1,1
+Belgium,Tunisia,3,1
+Belgium,Australia,2,1
+Belgium,Iran,3,1
+Belgium,Japan,2,1
+Belgium,Korea Republic,2,1
+Belgium,Saudi Arabia,2,1
+Belgium,Croatia,1,1
+Belgium,Denmark,1,1
+Belgium,England,1,1
+Belgium,France,1,1
+Belgium,Germany,1,1
+Belgium,Iceland,3,1
+Belgium,Poland,1,1
+Belgium,Portugal,1,1
+Belgium,Russia,2,1
+Belgium,Serbia,2,1
+Belgium,Spain,1,1
+Belgium,Sweden,2,1
+Belgium,Switzerland,1,1
+Belgium,Costa Rica,3,1
+Belgium,Mexico,2,1
+Belgium,Panama,3,1
+Belgium,Argentina,1,1
+Belgium,Brazil,1,1
+Belgium,Colombia,2,1
+Belgium,Peru,3,1
+Belgium,Uruguay,1,1
+Croatia,Egypt,2,1
+Croatia,Morocco,2,1
+Croatia,Nigeria,2,1
+Croatia,Senegal,1,1
+Croatia,Tunisia,3,1
+Croatia,Australia,2,1
+Croatia,Iran,3,1
+Croatia,Japan,2,1
+Croatia,Korea Republic,2,1
+Croatia,Saudi Arabia,2,1
+Croatia,Belgium,1,1
+Croatia,Denmark,1,1
+Croatia,England,1,1
+Croatia,France,1,1
+Croatia,Germany,1,1
+Croatia,Iceland,3,1
+Croatia,Poland,1,1
+Croatia,Portugal,1,1
+Croatia,Russia,2,1
+Croatia,Serbia,2,1
+Croatia,Spain,1,1
+Croatia,Sweden,2,1
+Croatia,Switzerland,1,1
+Croatia,Costa Rica,3,1
+Croatia,Mexico,2,1
+Croatia,Panama,3,1
+Croatia,Argentina,1,1
+Croatia,Brazil,1,1
+Croatia,Colombia,2,1
+Croatia,Peru,3,1
+Croatia,Uruguay,1,1
+Denmark,Egypt,2,1
+Denmark,Morocco,2,1
+Denmark,Nigeria,2,1
+Denmark,Senegal,1,1
+Denmark,Tunisia,3,1
+Denmark,Australia,2,1
+Denmark,Iran,3,1
+Denmark,Japan,2,1
+Denmark,Korea Republic,2,1
+Denmark,Saudi Arabia,2,1
+Denmark,Belgium,1,1
+Denmark,Croatia,1,1
+Denmark,England,1,1
+Denmark,France,1,1
+Denmark,Germany,1,1
+Denmark,Iceland,3,1
+Denmark,Poland,1,1
+Denmark,Portugal,1,1
+Denmark,Russia,2,1
+Denmark,Serbia,2,1
+Denmark,Spain,1,1
+Denmark,Sweden,2,1
+Denmark,Switzerland,1,1
+Denmark,Costa Rica,3,1
+Denmark,Mexico,2,1
+Denmark,Panama,3,1
+Denmark,Argentina,1,1
+Denmark,Brazil,1,1
+Denmark,Colombia,2,1
+Denmark,Peru,3,1
+Denmark,Uruguay,1,1
+England,Egypt,2,1
+England,Morocco,2,1
+England,Nigeria,2,1
+England,Senegal,1,1
+England,Tunisia,3,1
+England,Australia,2,1
+England,Iran,3,1
+England,Japan,2,1
+England,Korea Republic,2,1
+England,Saudi Arabia,2,1
+England,Belgium,1,1
+England,Croatia,1,1
+England,Denmark,1,1
+England,France,1,1
+England,Germany,1,1
+England,Iceland,3,1
+England,Poland,1,1
+England,Portugal,1,1
+England,Russia,2,1
+England,Serbia,2,1
+England,Spain,1,1
+England,Sweden,2,1
+England,Switzerland,1,1
+England,Costa Rica,3,1
+England,Mexico,2,1
+England,Panama,3,1
+England,Argentina,1,1
+England,Brazil,1,1
+England,Colombia,2,1
+England,Peru,3,1
+England,Uruguay,1,1
+France,Egypt,2,1
+France,Morocco,2,1
+France,Nigeria,2,1
+France,Senegal,1,1
+France,Tunisia,3,1
+France,Australia,2,1
+France,Iran,3,1
+France,Japan,2,1
+France,Korea Republic,2,1
+France,Saudi Arabia,2,1
+France,Belgium,1,1
+France,Croatia,1,1
+France,Denmark,1,1
+France,England,1,1
+France,Germany,1,1
+France,Iceland,3,1
+France,Poland,1,1
+France,Portugal,1,1
+France,Russia,2,1
+France,Serbia,2,1
+France,Spain,1,1
+France,Sweden,2,1
+France,Switzerland,1,1
+France,Costa Rica,3,1
+France,Mexico,2,1
+France,Panama,3,1
+France,Argentina,1,1
+France,Brazil,1,1
+France,Colombia,2,1
+France,Peru,3,1
+France,Uruguay,1,1
+Germany,Egypt,2,1
+Germany,Morocco,2,1
+Germany,Nigeria,2,1
+Germany,Senegal,1,1
+Germany,Tunisia,3,1
+Germany,Australia,2,1
+Germany,Iran,3,1
+Germany,Japan,2,1
+Germany,Korea Republic,2,1
+Germany,Saudi Arabia,2,1
+Germany,Belgium,1,1
+Germany,Croatia,1,1
+Germany,Denmark,1,1
+Germany,England,1,1
+Germany,France,1,1
+Germany,Iceland,3,1
+Germany,Poland,1,1
+Germany,Portugal,1,1
+Germany,Russia,2,1
+Germany,Serbia,2,1
+Germany,Spain,1,1
+Germany,Sweden,2,1
+Germany,Switzerland,1,1
+Germany,Costa Rica,3,1
+Germany,Mexico,2,1
+Germany,Panama,3,1
+Germany,Argentina,1,1
+Germany,Brazil,1,1
+Germany,Colombia,2,1
+Germany,Peru,3,1
+Germany,Uruguay,1,1
+Iceland,Egypt,2,3
+Iceland,Morocco,2,3
+Iceland,Nigeria,2,3
+Iceland,Senegal,1,3
+Iceland,Tunisia,3,3
+Iceland,Australia,2,3
+Iceland,Iran,3,3
+Iceland,Japan,2,3
+Iceland,Korea Republic,2,3
+Iceland,Saudi Arabia,2,3
+Iceland,Belgium,1,3
+Iceland,Croatia,1,3
+Iceland,Denmark,1,3
+Iceland,England,1,3
+Iceland,France,1,3
+Iceland,Germany,1,3
+Iceland,Poland,1,3
+Iceland,Portugal,1,3
+Iceland,Russia,2,3
+Iceland,Serbia,2,3
+Iceland,Spain,1,3
+Iceland,Sweden,2,3
+Iceland,Switzerland,1,3
+Iceland,Costa Rica,3,3
+Iceland,Mexico,2,3
+Iceland,Panama,3,3
+Iceland,Argentina,1,3
+Iceland,Brazil,1,3
+Iceland,Colombia,2,3
+Iceland,Peru,3,3
+Iceland,Uruguay,1,3
+Poland,Egypt,2,1
+Poland,Morocco,2,1
+Poland,Nigeria,2,1
+Poland,Senegal,1,1
+Poland,Tunisia,3,1
+Poland,Australia,2,1
+Poland,Iran,3,1
+Poland,Japan,2,1
+Poland,Korea Republic,2,1
+Poland,Saudi Arabia,2,1
+Poland,Belgium,1,1
+Poland,Croatia,1,1
+Poland,Denmark,1,1
+Poland,England,1,1
+Poland,France,1,1
+Poland,Germany,1,1
+Poland,Iceland,3,1
+Poland,Portugal,1,1
+Poland,Russia,2,1
+Poland,Serbia,2,1
+Poland,Spain,1,1
+Poland,Sweden,2,1
+Poland,Switzerland,1,1
+Poland,Costa Rica,3,1
+Poland,Mexico,2,1
+Poland,Panama,3,1
+Poland,Argentina,1,1
+Poland,Brazil,1,1
+Poland,Colombia,2,1
+Poland,Peru,3,1
+Poland,Uruguay,1,1
+Portugal,Egypt,2,1
+Portugal,Morocco,2,1
+Portugal,Nigeria,2,1
+Portugal,Senegal,1,1
+Portugal,Tunisia,3,1
+Portugal,Australia,2,1
+Portugal,Iran,3,1
+Portugal,Japan,2,1
+Portugal,Korea Republic,2,1
+Portugal,Saudi Arabia,2,1
+Portugal,Belgium,1,1
+Portugal,Croatia,1,1
+Portugal,Denmark,1,1
+Portugal,England,1,1
+Portugal,France,1,1
+Portugal,Germany,1,1
+Portugal,Iceland,3,1
+Portugal,Poland,1,1
+Portugal,Russia,2,1
+Portugal,Serbia,2,1
+Portugal,Spain,1,1
+Portugal,Sweden,2,1
+Portugal,Switzerland,1,1
+Portugal,Costa Rica,3,1
+Portugal,Mexico,2,1
+Portugal,Panama,3,1
+Portugal,Argentina,1,1
+Portugal,Brazil,1,1
+Portugal,Colombia,2,1
+Portugal,Peru,3,1
+Portugal,Uruguay,1,1
+Russia,Egypt,2,2
+Russia,Morocco,2,2
+Russia,Nigeria,2,2
+Russia,Senegal,1,2
+Russia,Tunisia,3,2
+Russia,Australia,2,2
+Russia,Iran,3,2
+Russia,Japan,2,2
+Russia,Korea Republic,2,2
+Russia,Saudi Arabia,2,2
+Russia,Belgium,1,2
+Russia,Croatia,1,2
+Russia,Denmark,1,2
+Russia,England,1,2
+Russia,France,1,2
+Russia,Germany,1,2
+Russia,Iceland,3,2
+Russia,Poland,1,2
+Russia,Portugal,1,2
+Russia,Serbia,2,2
+Russia,Spain,1,2
+Russia,Sweden,2,2
+Russia,Switzerland,1,2
+Russia,Costa Rica,3,2
+Russia,Mexico,2,2
+Russia,Panama,3,2
+Russia,Argentina,1,2
+Russia,Brazil,1,2
+Russia,Colombia,2,2
+Russia,Peru,3,2
+Russia,Uruguay,1,2
+Serbia,Egypt,2,2
+Serbia,Morocco,2,2
+Serbia,Nigeria,2,2
+Serbia,Senegal,1,2
+Serbia,Tunisia,3,2
+Serbia,Australia,2,2
+Serbia,Iran,3,2
+Serbia,Japan,2,2
+Serbia,Korea Republic,2,2
+Serbia,Saudi Arabia,2,2
+Serbia,Belgium,1,2
+Serbia,Croatia,1,2
+Serbia,Denmark,1,2
+Serbia,England,1,2
+Serbia,France,1,2
+Serbia,Germany,1,2
+Serbia,Iceland,3,2
+Serbia,Poland,1,2
+Serbia,Portugal,1,2
+Serbia,Russia,2,2
+Serbia,Spain,1,2
+Serbia,Sweden,2,2
+Serbia,Switzerland,1,2
+Serbia,Costa Rica,3,2
+Serbia,Mexico,2,2
+Serbia,Panama,3,2
+Serbia,Argentina,1,2
+Serbia,Brazil,1,2
+Serbia,Colombia,2,2
+Serbia,Peru,3,2
+Serbia,Uruguay,1,2
+Spain,Egypt,2,1
+Spain,Morocco,2,1
+Spain,Nigeria,2,1
+Spain,Senegal,1,1
+Spain,Tunisia,3,1
+Spain,Australia,2,1
+Spain,Iran,3,1
+Spain,Japan,2,1
+Spain,Korea Republic,2,1
+Spain,Saudi Arabia,2,1
+Spain,Belgium,1,1
+Spain,Croatia,1,1
+Spain,Denmark,1,1
+Spain,England,1,1
+Spain,France,1,1
+Spain,Germany,1,1
+Spain,Iceland,3,1
+Spain,Poland,1,1
+Spain,Portugal,1,1
+Spain,Russia,2,1
+Spain,Serbia,2,1
+Spain,Sweden,2,1
+Spain,Switzerland,1,1
+Spain,Costa Rica,3,1
+Spain,Mexico,2,1
+Spain,Panama,3,1
+Spain,Argentina,1,1
+Spain,Brazil,1,1
+Spain,Colombia,2,1
+Spain,Peru,3,1
+Spain,Uruguay,1,1
+Sweden,Egypt,2,2
+Sweden,Morocco,2,2
+Sweden,Nigeria,2,2
+Sweden,Senegal,1,2
+Sweden,Tunisia,3,2
+Sweden,Australia,2,2
+Sweden,Iran,3,2
+Sweden,Japan,2,2
+Sweden,Korea Republic,2,2
+Sweden,Saudi Arabia,2,2
+Sweden,Belgium,1,2
+Sweden,Croatia,1,2
+Sweden,Denmark,1,2
+Sweden,England,1,2
+Sweden,France,1,2
+Sweden,Germany,1,2
+Sweden,Iceland,3,2
+Sweden,Poland,1,2
+Sweden,Portugal,1,2
+Sweden,Russia,2,2
+Sweden,Serbia,2,2
+Sweden,Spain,1,2
+Sweden,Switzerland,1,2
+Sweden,Costa Rica,3,2
+Sweden,Mexico,2,2
+Sweden,Panama,3,2
+Sweden,Argentina,1,2
+Sweden,Brazil,1,2
+Sweden,Colombia,2,2
+Sweden,Peru,3,2
+Sweden,Uruguay,1,2
+Switzerland,Egypt,2,1
+Switzerland,Morocco,2,1
+Switzerland,Nigeria,2,1
+Switzerland,Senegal,1,1
+Switzerland,Tunisia,3,1
+Switzerland,Australia,2,1
+Switzerland,Iran,3,1
+Switzerland,Japan,2,1
+Switzerland,Korea Republic,2,1
+Switzerland,Saudi Arabia,2,1
+Switzerland,Belgium,1,1
+Switzerland,Croatia,1,1
+Switzerland,Denmark,1,1
+Switzerland,England,1,1
+Switzerland,France,1,1
+Switzerland,Germany,1,1
+Switzerland,Iceland,3,1
+Switzerland,Poland,1,1
+Switzerland,Portugal,1,1
+Switzerland,Russia,2,1
+Switzerland,Serbia,2,1
+Switzerland,Spain,1,1
+Switzerland,Sweden,2,1
+Switzerland,Costa Rica,3,1
+Switzerland,Mexico,2,1
+Switzerland,Panama,3,1
+Switzerland,Argentina,1,1
+Switzerland,Brazil,1,1
+Switzerland,Colombia,2,1
+Switzerland,Peru,3,1
+Switzerland,Uruguay,1,1
+Costa Rica,Egypt,2,3
+Costa Rica,Morocco,2,3
+Costa Rica,Nigeria,2,3
+Costa Rica,Senegal,1,3
+Costa Rica,Tunisia,3,3
+Costa Rica,Australia,2,3
+Costa Rica,Iran,3,3
+Costa Rica,Japan,2,3
+Costa Rica,Korea Republic,2,3
+Costa Rica,Saudi Arabia,2,3
+Costa Rica,Belgium,1,3
+Costa Rica,Croatia,1,3
+Costa Rica,Denmark,1,3
+Costa Rica,England,1,3
+Costa Rica,France,1,3
+Costa Rica,Germany,1,3
+Costa Rica,Iceland,3,3
+Costa Rica,Poland,1,3
+Costa Rica,Portugal,1,3
+Costa Rica,Russia,2,3
+Costa Rica,Serbia,2,3
+Costa Rica,Spain,1,3
+Costa Rica,Sweden,2,3
+Costa Rica,Switzerland,1,3
+Costa Rica,Mexico,2,3
+Costa Rica,Panama,3,3
+Costa Rica,Argentina,1,3
+Costa Rica,Brazil,1,3
+Costa Rica,Colombia,2,3
+Costa Rica,Peru,3,3
+Costa Rica,Uruguay,1,3
+Mexico,Egypt,2,2
+Mexico,Morocco,2,2
+Mexico,Nigeria,2,2
+Mexico,Senegal,1,2
+Mexico,Tunisia,3,2
+Mexico,Australia,2,2
+Mexico,Iran,3,2
+Mexico,Japan,2,2
+Mexico,Korea Republic,2,2
+Mexico,Saudi Arabia,2,2
+Mexico,Belgium,1,2
+Mexico,Croatia,1,2
+Mexico,Denmark,1,2
+Mexico,England,1,2
+Mexico,France,1,2
+Mexico,Germany,1,2
+Mexico,Iceland,3,2
+Mexico,Poland,1,2
+Mexico,Portugal,1,2
+Mexico,Russia,2,2
+Mexico,Serbia,2,2
+Mexico,Spain,1,2
+Mexico,Sweden,2,2
+Mexico,Switzerland,1,2
+Mexico,Costa Rica,3,2
+Mexico,Panama,3,2
+Mexico,Argentina,1,2
+Mexico,Brazil,1,2
+Mexico,Colombia,2,2
+Mexico,Peru,3,2
+Mexico,Uruguay,1,2
+Panama,Egypt,2,3
+Panama,Morocco,2,3
+Panama,Nigeria,2,3
+Panama,Senegal,1,3
+Panama,Tunisia,3,3
+Panama,Australia,2,3
+Panama,Iran,3,3
+Panama,Japan,2,3
+Panama,Korea Republic,2,3
+Panama,Saudi Arabia,2,3
+Panama,Belgium,1,3
+Panama,Croatia,1,3
+Panama,Denmark,1,3
+Panama,England,1,3
+Panama,France,1,3
+Panama,Germany,1,3
+Panama,Iceland,3,3
+Panama,Poland,1,3
+Panama,Portugal,1,3
+Panama,Russia,2,3
+Panama,Serbia,2,3
+Panama,Spain,1,3
+Panama,Sweden,2,3
+Panama,Switzerland,1,3
+Panama,Costa Rica,3,3
+Panama,Mexico,2,3
+Panama,Argentina,1,3
+Panama,Brazil,1,3
+Panama,Colombia,2,3
+Panama,Peru,3,3
+Panama,Uruguay,1,3
+Argentina,Egypt,2,1
+Argentina,Morocco,2,1
+Argentina,Nigeria,2,1
+Argentina,Senegal,1,1
+Argentina,Tunisia,3,1
+Argentina,Australia,2,1
+Argentina,Iran,3,1
+Argentina,Japan,2,1
+Argentina,Korea Republic,2,1
+Argentina,Saudi Arabia,2,1
+Argentina,Belgium,1,1
+Argentina,Croatia,1,1
+Argentina,Denmark,1,1
+Argentina,England,1,1
+Argentina,France,1,1
+Argentina,Germany,1,1
+Argentina,Iceland,3,1
+Argentina,Poland,1,1
+Argentina,Portugal,1,1
+Argentina,Russia,2,1
+Argentina,Serbia,2,1
+Argentina,Spain,1,1
+Argentina,Sweden,2,1
+Argentina,Switzerland,1,1
+Argentina,Costa Rica,3,1
+Argentina,Mexico,2,1
+Argentina,Panama,3,1
+Argentina,Brazil,1,1
+Argentina,Colombia,2,1
+Argentina,Peru,3,1
+Argentina,Uruguay,1,1
+Brazil,Egypt,2,1
+Brazil,Morocco,2,1
+Brazil,Nigeria,2,1
+Brazil,Senegal,1,1
+Brazil,Tunisia,3,1
+Brazil,Australia,2,1
+Brazil,Iran,3,1
+Brazil,Japan,2,1
+Brazil,Korea Republic,2,1
+Brazil,Saudi Arabia,2,1
+Brazil,Belgium,1,1
+Brazil,Croatia,1,1
+Brazil,Denmark,1,1
+Brazil,England,1,1
+Brazil,France,1,1
+Brazil,Germany,1,1
+Brazil,Iceland,3,1
+Brazil,Poland,1,1
+Brazil,Portugal,1,1
+Brazil,Russia,2,1
+Brazil,Serbia,2,1
+Brazil,Spain,1,1
+Brazil,Sweden,2,1
+Brazil,Switzerland,1,1
+Brazil,Costa Rica,3,1
+Brazil,Mexico,2,1
+Brazil,Panama,3,1
+Brazil,Argentina,1,1
+Brazil,Colombia,2,1
+Brazil,Peru,3,1
+Brazil,Uruguay,1,1
+Colombia,Egypt,2,2
+Colombia,Morocco,2,2
+Colombia,Nigeria,2,2
+Colombia,Senegal,1,2
+Colombia,Tunisia,3,2
+Colombia,Australia,2,2
+Colombia,Iran,3,2
+Colombia,Japan,2,2
+Colombia,Korea Republic,2,2
+Colombia,Saudi Arabia,2,2
+Colombia,Belgium,1,2
+Colombia,Croatia,1,2
+Colombia,Denmark,1,2
+Colombia,England,1,2
+Colombia,France,1,2
+Colombia,Germany,1,2
+Colombia,Iceland,3,2
+Colombia,Poland,1,2
+Colombia,Portugal,1,2
+Colombia,Russia,2,2
+Colombia,Serbia,2,2
+Colombia,Spain,1,2
+Colombia,Sweden,2,2
+Colombia,Switzerland,1,2
+Colombia,Costa Rica,3,2
+Colombia,Mexico,2,2
+Colombia,Panama,3,2
+Colombia,Argentina,1,2
+Colombia,Brazil,1,2
+Colombia,Peru,3,2
+Colombia,Uruguay,1,2
+Peru,Egypt,2,3
+Peru,Morocco,2,3
+Peru,Nigeria,2,3
+Peru,Senegal,1,3
+Peru,Tunisia,3,3
+Peru,Australia,2,3
+Peru,Iran,3,3
+Peru,Japan,2,3
+Peru,Korea Republic,2,3
+Peru,Saudi Arabia,2,3
+Peru,Belgium,1,3
+Peru,Croatia,1,3
+Peru,Denmark,1,3
+Peru,England,1,3
+Peru,France,1,3
+Peru,Germany,1,3
+Peru,Iceland,3,3
+Peru,Poland,1,3
+Peru,Portugal,1,3
+Peru,Russia,2,3
+Peru,Serbia,2,3
+Peru,Spain,1,3
+Peru,Sweden,2,3
+Peru,Switzerland,1,3
+Peru,Costa Rica,3,3
+Peru,Mexico,2,3
+Peru,Panama,3,3
+Peru,Argentina,1,3
+Peru,Brazil,1,3
+Peru,Colombia,2,3
+Peru,Uruguay,1,3
+Uruguay,Egypt,2,1
+Uruguay,Morocco,2,1
+Uruguay,Nigeria,2,1
+Uruguay,Senegal,1,1
+Uruguay,Tunisia,3,1
+Uruguay,Australia,2,1
+Uruguay,Iran,3,1
+Uruguay,Japan,2,1
+Uruguay,Korea Republic,2,1
+Uruguay,Saudi Arabia,2,1
+Uruguay,Belgium,1,1
+Uruguay,Croatia,1,1
+Uruguay,Denmark,1,1
+Uruguay,England,1,1
+Uruguay,France,1,1
+Uruguay,Germany,1,1
+Uruguay,Iceland,3,1
+Uruguay,Poland,1,1
+Uruguay,Portugal,1,1
+Uruguay,Russia,2,1
+Uruguay,Serbia,2,1
+Uruguay,Spain,1,1
+Uruguay,Sweden,2,1
+Uruguay,Switzerland,1,1
+Uruguay,Costa Rica,3,1
+Uruguay,Mexico,2,1
+Uruguay,Panama,3,1
+Uruguay,Argentina,1,1
+Uruguay,Brazil,1,1
+Uruguay,Colombia,2,1
+Uruguay,Peru,3,1
