@@ -1,15 +1,11 @@
-# fifa-wc-2018-bayesian
-fifa wc prediction
+
 
 Using Bayesian methods of Machine Learning to predict the outcome of the World Cup 2018
 
-This project is a Bayesian model to predict the probability that a team will win the competition. To predict the win, lose, draw probabilities using historical data (expert knowledge) as prior information and FIFA ratings as the covariate. The strength of our Bayesian approach is that our sets of knowledge to build the posterior distributions and historical information can be easily updated to overcome the lack of information to characterize the FIFA World Cup 2018. 
-
-The FIFA 18 dataset is imported by scraping the website sofifa.com.  Using these statistics we form the best squad available for each team. A squad must consist of one goalkeeper (GK), 3 to 5 defenders (LB, RB, CB, LWB, RWB), 3 to 5 midfielders (CM, CDM, LM, RM) and 1 to 3 attackers (LW, RW, ST, CAM) to form a total of 11 players. While forming the squads, we assume that each player will be playing to their maximum potential and that they will play with a formation that maximizes the overall team rating. A team is classified into 3 tiers based on their overall rating and current ranking. 
 
 The historical results for the games played by nations over several tournaments and friendly matches was obtained from kaggle.com/martj42/international-football-results-from-1872-to-2017. For this project, we only considered the games played after 1990.
 
-The simulation consistently resulted in France with the highest probability to win the World Cup with 35.94| followed by Spain with $14.10~\|$. Comparing our results with sportsbook betting odds, we notice that our model is comparable.
+
 
 #### RESULTS
 |  **Country**		|	**Win Prob**	|
