@@ -28,7 +28,7 @@ Follow these steps to explore and reproduce the analysis:
 
 ### Prerequisites
 
-- Python (3.8+)
+- Python (3+)
 - Jupyter Notebook
 - Required Python libraries (see `requirements.txt`)
 
@@ -53,7 +53,7 @@ Follow these steps to explore and reproduce the analysis:
    jupyter notebook
    ```
 
-4. Open the `main_analysis.ipynb` file to explore the analysis.
+4. Open the `.ipynb` files to explore the analysis.
 
 ---
 
@@ -151,10 +151,9 @@ For a detailed walkthrough of the findings, check the [Prezi presentation](https
 ## Repository Structure
 
 - `data/`: Raw and processed datasets.
-- `notebooks/`: Jupyter Notebooks for analysis and visualization.
+- `code/`: code files
 - `models/`: Pre-trained Bayesian models and scripts.
 - `results/`: Outputs and visualizations.
-- `requirements.txt`: List of required Python packages.
 
 ---
 
